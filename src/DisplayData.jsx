@@ -3,7 +3,6 @@ import axios from 'axios'
 import { useState } from "react";
 import { CiSearch } from "react-icons/ci";
 import clear from "./images/clear.png"
-// import fall from "./images/fall.png"
 import cloud from "./images/cloud.png";
 import drizzle from "./images/drizzle.png";
 import snow from "./images/snow.png";
