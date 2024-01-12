@@ -19,7 +19,6 @@ const DisplayData = () => {
   const [data,setData] = useState({})
 
   async function apisearch() {
-    // setErrMsg(null)
     try {
       const element = document.getElementsByClassName("input")
       if (element[0].value === "") {

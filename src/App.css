@@ -16,7 +16,7 @@ body {
 .container {
   display: flex;
   /* border: 2px solid white; */
-  margin: 100px auto;
+  margin: 38px auto;
 }
 
 .left {
